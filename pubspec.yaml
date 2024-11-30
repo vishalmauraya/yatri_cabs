@@ -1,0 +1,63 @@
+name: yatri_cabs
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  riverpod: ^2.6.1
+  flutter_riverpod: ^2.6.1
+  flutter_svg: ^2.0.16
+  intl: ^0.20.1
+  carousel_slider: ^5.0.0
+  google_nav_bar: ^5.0.7
+  badges: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/adds.png
+    - assets/images/companyLogo.png
+    - assets/images/serviceAdds.png
+    - assets/images/notificationIcon.svg
+    - assets/images/NotificationIcon.png
+    - assets/Icon_images/myTrip.png
+    - assets/Icon_images/more.png
+    - assets/Icon_images/Home.png
+    - assets/Icon_images/Account.png
+    - assets/Icon_images/location.png
+    - assets/Icon_images/myTrip.png
+    - assets/Icon_images/localTrip.png
+    - assets/Icon_images/airTrip.png
+    - assets/Icon_images/onewayDrop.png
+    - assets/Icon_images/onewayLocation.png
+    - assets/Icon_images/onewayTime.png
+    - assets/Icon_images/onwayCalander.png
+    - assets/Icon_images/CrossIcon.png
+    - assets/Icon_images/ReverseTime.png
+    - assets/Icon_images/plus.png
+    - assets/Icon_images/calendericon.png
+    - assets/Icon_images/roundCal.png
+    - assets/VectorIcon/Location.svg
+    - assets/VectorIcon/airTrio.svg
+    - assets/VectorIcon/local.svg
+    - assets/VectorIcon/myTrip.svg
+    - assets/VectorIcon/more.svg
+    - assets/VectorIcon/Account.svg
+    - assets/VectorIcon/Home.svg
